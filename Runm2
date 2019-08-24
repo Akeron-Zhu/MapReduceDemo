@@ -1,0 +1,6 @@
+#!/bin/bash
+
+#./server_for_receive 10002 192.168.0.102 &
+#./server_for_send 10005 &
+#./server_receive_server 10006 &
+./MRec 10011 192.168.0.101 &
